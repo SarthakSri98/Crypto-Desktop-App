@@ -1,0 +1,15 @@
+img{
+    height:15px;
+    width:20px;
+}
+
+#price{
+    border: 2px solid black;
+    padding:10px;
+}
+
+#closeBtn:hover
+{
+    cursor: pointer;
+    color:red;
+}
